@@ -858,3 +858,36 @@
 .search-2oPWTC:not(.open-6_Y_aH):hover .searchBar-3dMhjb { width: 240px; transition: 0.25s; background-color: var(--background-tertiary);}
 .search-2oPWTC:not(.open-6_Y_aH) .iconContainer-O4O2CN { transform: scale(1.2); transition: 0.25s;}
 .search-2oPWTC:not(.open-6_Y_aH):hover .iconContainer-O4O2CN { transform: scale(1); transition: 0.25s;}
+
+/*--------------------------*/
+
+headerTop-3vNv-a, .rolesList-1geHY1, .headerTextNormal-2mGWX3, .customStatus-oN4ZZY, .aboutMeTitle-1IYtPE{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.avatarWrapperNormal-26WQIb{
+  position: absolute;
+  left: 35%;
+}
+.profileBadges-ohc0Vu{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-height: 100px;
+  transform: translateY(-8px);
+  position: absolute;
+  transform: translate(-250px);
+}
+.userPopout-xaxa6l .input-cIJ7To, .aboutMeSection-1Fw5Ia, .bodyTitle-1ySSKn, .textarea-2r0oV8, .marginBottom8-AtZOdT.size14-e6ZScH{
+  text-align: center;
+}
+
+/*--------------------------*/
+
+[d="M19.8914 3.80204L22.2438 8.55654C22.5726 9.22119 22.0891 9.99999 21.3475 10L16.6179 10C15.8745 10 15.391 9.21769 15.7235 8.55279L18.1007 3.79829C18.4701 3.05951 19.5251 3.06172 19.8914 3.80204ZM18.4998 5H19.4999V7.5H18.4999L18.4998 5ZM18.4998 8.49887C18.4998 8.77589 18.7238 9 18.9998 9C19.2759 9 19.4999 8.77589 19.4999 8.49887C19.4999 8.22224 19.2759 7.99773 18.9998 7.99773C18.7238 7.99773 18.4998 8.22224 18.4998 8.49887Z"]{
+  fill:hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%);
+}
+
+/*--------------------------*/
