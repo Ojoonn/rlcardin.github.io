@@ -20,7 +20,7 @@
  
  .membersWrap-2h-GB4 .membersGroup-v9BXpm::after {
     content: '';
-    width: 30px;
+    width: 10px;
     height: 2px;
     border-radius: 50px;
     background: unset;
@@ -418,8 +418,8 @@
 	border-radius: 10px;
 	transform: rotate(-90deg);
 	position: fixed;
-	left: -103px;
-	bottom: 80px;
+	left: -85px;
+	bottom: 145px;
 	height: 45px;
 	width: 240px
 }
